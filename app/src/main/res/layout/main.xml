@@ -1,0 +1,74 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+
+	<ScrollView android:id="@+id/main" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="640dp" >
+
+
+
+			<RelativeLayout android:id="@+id/page_main_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="0dp">
+
+				<View android:id="@+id/_bg__main_ek2"
+					android:background="@drawable/_bg__main_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:onClick="fun"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+				<TextView android:id="@+id/medicamento"
+					android:fontFamily="PT Sans"
+					android:textSize="28sp"
+					android:textColor="@color/medicamento_color"
+					android:layout_marginLeft="61dp"
+					android:layout_marginTop="533dp"
+					android:layout_width="167dp"
+					android:layout_height="43dp"
+					android:text="@string/medicamento_string"
+					android:layout_marginStart="61dp" />
+
+				<TextView
+					android:id="@+id/commercium"
+					android:layout_width="206dp"
+					android:layout_height="54dp"
+					android:layout_marginLeft="141dp"
+					android:layout_marginTop="559dp"
+					android:fontFamily="PT Sans"
+					android:text="@string/commercium_string"
+					android:textColor="@color/commercium_color"
+					android:textSize="28sp"
+					android:layout_marginStart="141dp" />
+
+				<ImageView android:id="@+id/logo1111"
+					android:src="@drawable/logo1111"
+					android:contentDescription="@string/logo1111"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="126dp"
+					android:layout_width="378dp"
+					android:layout_height="270dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

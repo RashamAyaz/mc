@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- main colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__main_ek2_color">#f9f9f9</color>
+	<color name="medicamento_color">#0888d6</color>
+	<color name="commercium_color">#218767</color>
+	<color name="_bg__signup_ek2_color">#fefeff</color>
+	<color name="sign_up_color">#1a1a1a</color>
+	<color name="email_address_color">#1d2226</color>
+	<color name="rectangle_10_color">#0888d6</color>
+	<color name="signup_ek3_color">#ffffff</color>
+	<color name="please_enter_the_4_digit_code_sent_to_your_mail_xdefghy_gmail_com_color">#000000</color>
+	<color name="rectangle_40_color">#b7b7bc</color>
+	<color name="rectangle_41_color">#fafafa</color>
+	<color name="rectangle_42_color">#dcdddf</color>
+	<color name="_1_color">#393939</color>
+	<color name="abc_color">#929292</color>
+	<color name="___color">#bdbdbd</color>
+	<color name="___ek1_color">#5f5f5f</color>
+	<color name="ellipse_5_color">#5f5f5f</color>
+	<color name="medicamento_commercium_color">#fefeff</color>
+	<color name="rectangle_133_color">#ffffff</color>
+	<color name="drug_chemical_name_color">#2699fb</color>
+	<color name="ellipse_97_color">#000000</color>
+</resources>

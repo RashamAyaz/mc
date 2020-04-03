@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="exportkit.xd" >
+
+	
+
+	<application
+		android:allowBackup="true"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity
+		android:name=".main_activity"
+		android:configChanges="orientation|keyboardHidden|screenSize"
+		android:label="@string/app_name"  >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+			<activity android:name="exportkit.xd.signup_activity"></activity>
+			<activity android:name="exportkit.xd.login_activity"></activity>
+			<activity android:name="exportkit.xd.otp_activity"></activity>
+			<activity android:name="exportkit.xd.verfied_activity"></activity>
+			<activity android:name="exportkit.xd.search_activity"></activity>
+			<activity android:name="exportkit.xd.settings_activity"></activity>
+			<activity android:name="exportkit.xd.output_activity"></activity>
+			<activity android:name="exportkit.xd.history_activity"></activity>
+			<activity android:name="exportkit.xd.alert_activity"></activity>
+			<activity android:name="exportkit.xd.exit_activity"></activity>
+			<activity android:name="exportkit.xd.dropdown_activity"></activity>
+	</application>
+
+</manifest>
+	
+	

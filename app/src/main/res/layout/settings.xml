@@ -1,0 +1,362 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		main
+	 *	@date 		0
+	 *	@title 		main
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.2.9.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/settings" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="640dp" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_settings_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__settings_ek2"
+					android:background="@drawable/_bg__settings_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+				<ImageView android:id="@+id/path_2465_ek1"
+					android:src="@drawable/path_2465_ek1"
+					android:contentDescription="path_2465_ek1"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="64dp" />
+
+				<TextView android:id="@+id/medicamento_commercium_ek1"
+					android:fontFamily="Raleway"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/medicamento_commercium_color"
+					android:layout_marginLeft="28dp"
+					android:layout_marginTop="20dp"
+					android:layout_width="271dp"
+					android:layout_height="28dp"
+					android:text="@string/medicamento_commercium_ek1_string"
+					 />
+
+				<ImageView android:id="@+id/med_ek1"
+					android:src="@drawable/med_ek1"
+					android:contentDescription="med_ek1"
+					 android:layout_marginLeft="128dp"
+					 android:layout_marginStart="128dp"
+					android:layout_marginTop="455dp"
+					android:layout_width="420dp"
+					android:layout_height="263dp" />
+
+				<TextView android:id="@+id/enter_the_name_of_first_drug_ek1"
+					android:fontFamily="Raleway"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:alpha="0.25999999046326"
+					 android:textSize="20sp"
+					android:textColor="@color/please_enter_the_4_digit_code_sent_to_your_mail_xdefghy_gmail_com_color"
+					android:layout_marginLeft="51dp"
+					android:layout_marginTop="135dp"
+					android:layout_width="257dp"
+					android:layout_height="28dp"
+					android:text="@string/enter_the_name_of_first_drug_ek1_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/input___entered_ek2"
+					android:layout_marginTop="166dp"
+					android:layout_marginStart="44dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_133_ek2"
+						android:background="@drawable/rectangle_133_ek2_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="270dp"
+						android:layout_height="48dp" />
+
+					<TextView android:id="@+id/drug_chemical_name_ek2"
+						android:fontFamily="Arial"
+						android:alpha="0.68000000715256"
+						 android:textSize="14sp"
+						android:textColor="@color/drug_chemical_name_color"
+						android:layout_marginLeft="20dp"
+						android:layout_marginTop="17dp"
+						android:layout_width="133dp"
+						android:layout_height="19dp"
+						android:text="@string/drug_chemical_name_ek2_string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/enter_the_name_of_second_drug_ek1"
+					android:fontFamily="Raleway"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:alpha="0.25999999046326"
+					 android:textSize="20sp"
+					android:textColor="@color/please_enter_the_4_digit_code_sent_to_your_mail_xdefghy_gmail_com_color"
+					android:layout_marginLeft="36dp"
+					android:layout_marginTop="277dp"
+					android:layout_width="293dp"
+					android:layout_height="28dp"
+					android:text="@string/enter_the_name_of_second_drug_ek1_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/input___entered_ek3"
+					android:layout_marginTop="308dp"
+					android:layout_marginStart="44dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_133_ek3"
+						android:background="@drawable/rectangle_133_ek3_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="270dp"
+						android:layout_height="48dp" />
+
+					<TextView android:id="@+id/drug_chemical_name_ek3"
+						android:fontFamily="Arial"
+						android:alpha="0.68000000715256"
+						 android:textSize="14sp"
+						android:textColor="@color/drug_chemical_name_color"
+						android:layout_marginLeft="20dp"
+						android:layout_marginTop="17dp"
+						android:layout_width="133dp"
+						android:layout_height="19dp"
+						android:text="@string/drug_chemical_name_ek3_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_31_ek5"
+					android:layout_marginTop="419dp"
+					android:layout_marginStart="67dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_10_ek5"
+						android:background="@drawable/rectangle_10_ek5_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="226.96606445312dp"
+						android:layout_height="44.546875dp" />
+
+					<TextView android:id="@+id/check_interaction_ek1"
+						android:fontFamily="Raleway"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="20sp"
+						android:textColor="@color/signup_ek3_color"
+						android:layout_marginLeft="25dp"
+						android:layout_marginTop="10dp"
+						android:layout_width="175dp"
+						android:layout_height="28dp"
+						android:text="@string/check_interaction_ek1_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/profile_large_ek1"
+					android:layout_marginTop="12dp"
+					android:layout_marginStart="306dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/path_2468_ek1"
+						android:src="@drawable/path_2468_ek1"
+						android:contentDescription="path_2468_ek1"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="61dp"
+						android:layout_height="61dp" />
+
+
+					<RelativeLayout android:id="@+id/symbol_6___1_ek1"
+						android:layout_marginTop="14dp"
+						android:layout_marginStart="14dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/union_1_ek2"
+							android:src="@drawable/union_1_ek2"
+							android:contentDescription="union_1_ek2"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="17dp"
+							android:layout_height="17dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_96"
+					android:layout_marginTop="64dp"
+					android:layout_marginStart="150dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/path_2469"
+						android:src="@drawable/path_2469"
+						android:contentDescription="path_2469"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="210dp"
+						android:layout_height="277dp" />
+
+					<TextView android:id="@+id/rasham_ayaz_"
+						android:fontFamily="Raleway"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="21sp"
+						android:textColor="@color/medicamento_commercium_color"
+						android:layout_marginLeft="5dp"
+						android:layout_marginTop="13dp"
+						android:layout_width="143dp"
+						android:layout_height="29dp"
+						android:text="@string/rasham_ayaz__string"
+						 />
+
+					<TextView android:id="@+id/xdefghy_gmail_com"
+						android:fontFamily="Raleway"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="16sp"
+						android:textColor="@color/medicamento_commercium_color"
+						android:layout_marginLeft="6dp"
+						android:layout_marginTop="53dp"
+						android:layout_width="155dp"
+						android:layout_height="22dp"
+						android:text="@string/xdefghy_gmail_com_string"
+						 />
+
+					<ImageView android:id="@+id/line_12"
+						android:src="@drawable/line_12"
+						android:contentDescription="line_12"
+						 android:layout_marginLeft="1dp"
+						 android:layout_marginStart="1dp"
+						android:layout_marginTop="83dp"
+						android:layout_width="210dp"
+						android:layout_height="1dp" />
+
+					<TextView android:id="@+id/ddi_history"
+						android:fontFamily="Raleway"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="20sp"
+						android:textColor="@color/medicamento_commercium_color"
+						android:layout_marginLeft="6dp"
+						android:layout_marginTop="113dp"
+						android:layout_width="109dp"
+						android:layout_height="28dp"
+						android:text="@string/ddi_history_string"
+						 />
+
+					<TextView android:id="@+id/dark_mode"
+						android:fontFamily="Raleway"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="20sp"
+						android:textColor="@color/medicamento_commercium_color"
+						android:layout_marginLeft="6dp"
+						android:layout_marginTop="162dp"
+						android:layout_width="107dp"
+						android:layout_height="28dp"
+						android:text="@string/dark_mode_string"
+						 />
+
+					<TextView android:id="@+id/logout"
+						android:fontFamily="Raleway"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="20sp"
+						android:textColor="@color/medicamento_commercium_color"
+						android:layout_marginLeft="6dp"
+						android:layout_marginTop="208dp"
+						android:layout_width="71dp"
+						android:layout_height="28dp"
+						android:text="@string/logout_string"
+						 />
+
+
+					<RelativeLayout android:id="@+id/switch_off"
+						android:layout_marginTop="161dp"
+						android:layout_marginStart="147dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_993"
+							android:background="@drawable/rectangle_993_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="50dp"
+							android:layout_height="20dp" />
+
+						<View android:id="@+id/rectangle_994"
+							android:background="@drawable/rectangle_994_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="22dp"
+							android:layout_height="20dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

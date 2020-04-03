@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- main strings -->
+
+	<string name="app_name">main</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="medicamento_string">Medicamento</string>
+	<string name="commercium_string">Commercium</string>
+	<string name="sign_up_string">Sign Up</string>
+	<string name="login_string">Login</string>
+	<string name="email_address_string">Email Address</string>
+	<string name="confirm_password_string">Confirm Password</string>
+	<string name="password_string">Password</string>
+	<string name="full_name_string">Full Name</string>
+	<string name="signup_ek3_string">SIGNUP</string>
+	<string name="login_ek4_string">Login</string>
+	<string name="email_address_ek1_string">Email Address</string>
+	<string name="password_ek1_string">Password</string>
+	<string name="login_ek5_string">LOGIN</string>
+	<string name="sign_up_ek1_string">SIGN UP</string>
+	<string name="sign_up_ek2_string">Sign Up</string>
+	<string name="please_enter_the_4_digit_code_sent_to_your_mail_xdefghy_gmail_com_string">Please enter the 4 digit code sent to\
+your mail xdefghy@gmail.com</string>
+	<string name="_1_string">1</string>
+	<string name="_2_string">2</string>
+	<string name="abc_string">ABC</string>
+	<string name="_0_string">0</string>
+	<string name="___string">+</string>
+	<string name="_5_string">5</string>
+	<string name="jkl_string">JKL</string>
+	<string name="_8_string">8</string>
+	<string name="tuv_string">TUV</string>
+	<string name="_3_string">3</string>
+	<string name="def_string">DEF</string>
+	<string name="_6_string">6</string>
+	<string name="mno_string">MNO</string>
+	<string name="_9_string">9</string>
+	<string name="wxyz_string">WXYZ</string>
+	<string name="___ek1_string">*</string>
+	<string name="sym_string">Sym</string>
+	<string name="done_string">Done</string>
+	<string name="___ek2_string">#</string>
+	<string name="_4_string">4</string>
+	<string name="ghi_string">GHI</string>
+	<string name="_7_string">7</string>
+	<string name="pqrs_string">PQRS</string>
+	<string name="_0_ek1_string">0</string>
+	<string name="_0_ek2_string">0</string>
+	<string name="_0_ek3_string">0</string>
+	<string name="_0_ek4_string">0</string>
+	<string name="verify_string">VERIFY</string>
+	<string name="verified_string">VERIFIED</string>
+	<string name="go_to_homepage_string">GO TO HOMEPAGE</string>
+	<string name="medicamento_commercium_string">Medicamento Commercium</string>
+	<string name="enter_the_name_of_first_drug_string">Enter the name of first drug</string>
+	<string name="drug_chemical_name_string">Drug chemical name</string>
+	<string name="enter_the_name_of_second_drug_string">Enter the name of second drug</string>
+	<string name="drug_chemical_name_ek1_string">Drug chemical name</string>
+	<string name="check_interaction_string">Check Interaction</string>
+	<string name="exit_string">Exit</string>
+	<string name="medicamento_commercium_ek1_string">Medicamento Commercium</string>
+	<string name="enter_the_name_of_first_drug_ek1_string">Enter the name of first drug</string>
+	<string name="drug_chemical_name_ek2_string">Drug chemical name</string>
+	<string name="enter_the_name_of_second_drug_ek1_string">Enter the name of second drug</string>
+	<string name="drug_chemical_name_ek3_string">Drug chemical name</string>
+	<string name="check_interaction_ek1_string">Check Interaction</string>
+	<string name="rasham_ayaz__string">Rasham Ayaz </string>
+	<string name="xdefghy_gmail_com_string">xdefghy@gmail.com</string>
+	<string name="ddi_history_string">DDI History</string>
+	<string name="dark_mode_string">Dark Mode</string>
+	<string name="logout_string">Logout</string>
+	<string name="ddi_prediction_string">DDI Prediction</string>
+	<string name="exit_ek1_string">Exit</string>
+	<string name="interactions_between_drugs_string">Interactions between drugs</string>
+	<string name="the_prostacyclin_analogue__treprostinil__increases_the_risk_of_bleeding_when_combined_with_the_anticoagulant__bivalirudin__monitor_for_increased_bleeding_during_concomitant_thearpy___string">The prostacyclin analogue,\
+Treprostinil, increases the risk of\
+bleeding when combined with the\
+anticoagulant, Bivalirudin.\
+Monitor for increased bleeding\
+during concomitant thearpy. </string>
+	<string name="back_string">Back</string>
+	<string name="ok_string">Ok</string>
+	<string name="ddi_history_ek1_string">DDI History</string>
+	<string name="exit_ek2_string">Exit</string>
+	<string name="history_of_previous_ddis_string">History of previous DDIs</string>
+	<string name="treprostinil_and_bivalirudin_string">Treprostinil and Bivalirudin</string>
+	<string name="back_ek1_string">Back</string>
+	<string name="ok_ek1_string">Ok</string>
+	<string name="medicamento_commercium_ek2_string">Medicamento Commercium</string>
+	<string name="medicamento_commercium_ek3_string">Medicamento Commercium</string>
+	<string name="are_you_sure_you_want_to_logout__string">Are you sure you want to logout?</string>
+	<string name="no_string">No</string>
+	<string name="yes_string">Yes</string>
+	<string name="exit_ek3_string">Exit</string>
+	<string name="medicamento_commercium_ek4_string">Medicamento Commercium</string>
+	<string name="medicamento_commercium_ek5_string">Medicamento Commercium</string>
+	<string name="are_you_sure_you_want_to_exit__string">Are you sure you want to exit?</string>
+	<string name="no_ek1_string">No</string>
+	<string name="yes_ek1_string">Yes</string>
+	<string name="medicamento_commercium_ek6_string">Medicamento Commercium</string>
+	<string name="enter_the_name_of_first_drug_ek2_string">Enter the name of first drug</string>
+	<string name="drug_chemical_name_ek4_string">Drug chemical name</string>
+	<string name="enter_the_name_of_second_drug_ek2_string">Enter the name of second drug</string>
+	<string name="drug_chemical_name_ek5_string">Drug chemical name</string>
+	<string name="check_interaction_ek2_string">Check Interaction</string>
+	<string name="exit_ek7_string">Exit</string>
+	<string name="guaifenesin_string">Guaifenesin</string>
+	<string name="phenylephrine_string">Phenylephrine</string>
+	<string name="chlorpheniramine_string">Chlorpheniramine</string>
+    <string name="path_2465_ek4">path_2465_ek4</string>
+	<string name="med_ek4">med_ek4</string>
+	<string name="path_2468_ek4">path_2468_ek4</string>
+	<string name="union_1_ek5">union_1_ek5</string>
+	<string name="path_2471">path_2471</string>
+	<string name="logo1111_ek3">logo1111_ek3</string>
+	<string name="og_image">og_image</string>
+    <string name="logo1111">logo1111</string>
+</resources>
